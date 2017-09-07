@@ -1,0 +1,16 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+#charlieFunColorBlue{
+  color: #0000ff;
+}
+
+#charlieFunColorOrange{
+  color: #FF7419;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
